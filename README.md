@@ -32,5 +32,5 @@
 ## ⚛️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,ts,js,swift,kotlin,androidstudio,apple" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,swift,kotlin,androidstudio,apple" />
 </p>
